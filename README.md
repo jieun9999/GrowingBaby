@@ -30,8 +30,7 @@ https://github.com/jieun9999/GrowingBaby/assets/112951633/52f5bb02-b722-46c8-a15
 
 ### 2. 돈벌기
 
-https://github.com/jieun9999/GrowingBaby/assets/112951633/6fe571e1-8352-4300-a9bb-2e4f7cc1d6e9
-
+https://github.com/jieun9999/GrowingBaby/assets/112951633/ac2a5dff-b1cf-4e21-b2dd-604bab33baaf
 
 
 - 돈을 버는 방법에는 1. 기본 돈벌기 2. 코딩하기 3.투자하기 4.도박하기 5. 일꾼 고용하기 총 5가지가 있습니다
@@ -44,7 +43,7 @@ https://github.com/jieun9999/GrowingBaby/assets/112951633/6fe571e1-8352-4300-a9b
   
 ### 3. 상점
 
-https://github.com/jieun9999/GrowingBaby/assets/112951633/ce8aacf9-bb2d-4be4-b148-9ed062600014
+https://github.com/jieun9999/GrowingBaby/assets/112951633/82c760e0-d18f-4ea1-b73e-52a9136ca0d9
 
 
 - 상점에서는 메소드를 실행하는데 필요한 아이템을 구매할 수 있습니다
@@ -55,6 +54,9 @@ https://github.com/jieun9999/GrowingBaby/assets/112951633/ce8aacf9-bb2d-4be4-b14
   
 ### 4. 약국
 
+https://github.com/jieun9999/GrowingBaby/assets/112951633/9cbb28b6-4246-4e13-921c-23370afd3387
+
+
 - 아이의 애정, 건강, 지식 중 한 영역을 급격하게 높이고 싶을때, 물약을 먹입니다
 - 애정폭탄 물약, 건강폭탄 물약 , 지식폭탄 물약을 구매할 수 있습니다
 - 물약을 구매하면, 바로 마십니다
@@ -62,11 +64,17 @@ https://github.com/jieun9999/GrowingBaby/assets/112951633/ce8aacf9-bb2d-4be4-b14
 ​
 ### 5. 인벤토리
 
+https://github.com/jieun9999/GrowingBaby/assets/112951633/62b70c01-ae7e-4228-9943-5ffbb7750d7a
+
+
 - 아이가 가지고 있는 아이템을 확인할 수 있습니다
 - 메소드를 사용하면 1개씩 아이템이 소진됩니다
 
 
 ### 6. 아기 놀아주기
+
+https://github.com/jieun9999/GrowingBaby/assets/112951633/64646d78-0d7f-4bf0-ac60-db04e3c00367
+
 
 - 각각 3,5초 간격으로 아이가 울거나 오줌을 쌉니다 (스레드)
 - 이때 아이에게 '울음뚝', '바지 갈아입히기'를 입력하면 멈춥니다
@@ -74,6 +82,10 @@ https://github.com/jieun9999/GrowingBaby/assets/112951633/ce8aacf9-bb2d-4be4-b14
 
 
 ### ​7. 아웃트로
+
+https://github.com/jieun9999/GrowingBaby/assets/112951633/d8ac8d56-1ee6-443f-a500-a3cf3e626d8e
+
+
 - 게임종료 시 3초간 효과음이 재생됩니다 (스레드)
 
 
