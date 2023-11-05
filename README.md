@@ -14,7 +14,9 @@
 
 ### 1. 성장
 
-https://tv.kakao.com/v/441401728
+https://github.com/jieun9999/GrowingBaby/assets/112951633/08d6746e-8531-4cf1-b90f-004e8f6dbb87
+
+
 
 - 성장맵에 들어오면, 배경음악이 재생됩니다 (스레드)
 - 필수템을 보유하면, 돌봄 메소드를 사용할수 있습니다
